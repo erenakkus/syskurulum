@@ -22,7 +22,7 @@ Bu Bash scripti, root yetkisiyle çalışan bir Linux sunucusunda (Ubuntu/Debian
 1. Script dosyasını indirin:
 
 ```bash
-wget https://github.com/erenakkus/syskurulum/blob/main/kurulum.sh
+wget https://github.com/erenakkus/syskurulum/blob/main/kurulum.sh -O sunucu-kurulum.sh
 ```
 2. Çalıştırılabilir  Hale Getirin
 
